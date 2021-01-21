@@ -52,4 +52,5 @@ html {
 	outline: none;
 	font-family: monospace;
 	cursor: pointer;
+	position:absolute
 }
