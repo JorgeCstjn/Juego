@@ -6,8 +6,8 @@ html {
 }
 
 .Opponent {
-	animation: rotation 3s infinite linear;
-	-webkit-animation: rotation 3s infinite linear;
+	animation: rotation 2s infinite linear;
+	-webkit-animation: rotation 4s infinite linear;
 }
 
 .paused .Opponent {
