@@ -39,7 +39,7 @@ html {
 	border: none;
 	background: #ddd;
 	color: #333;
-	padding: 20px 30px;
+	padding: 0px 0px;
 	outline: none;
 	font-family: monospace;
 	cursor: pointer;
@@ -48,7 +48,7 @@ html {
 	border: none;
 	background: #ddd;
 	color: #333;
-	padding: 30px 40px;
+	padding: 0px 0px;
 	outline: none;
 	font-family: monospace;
 	cursor: pointer;
